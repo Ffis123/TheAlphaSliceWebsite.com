@@ -1,0 +1,28 @@
+body{
+    background-image:url("ab.png");
+}
+p{
+    border-style: solid;
+    padding: 50px;
+    padding-bottom: 1500px;
+    background-color: white;
+    border-color: blueviolet;
+    border-radius: 30px;
+    font-family: Afacad Flux, sans-serif;
+    font-size: 48px;
+    font-style: bold;
+    color: blueviolet;
+}
+h1{
+    color: #FFFFFF;
+    font-family: Advent Pro, sans-serif;
+    font-size: 50px;
+}
+button{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,45 @@
+body{
+    background-image:url("ab.png");
+}
+p{
+    border-style: solid;
+    padding: 50px;
+    padding-bottom: 1500px;
+    background-color: rgb(255, 254, 254);
+    border-color: blueviolet;
+    border-radius: 30px;
+    font-family: Afacad Flux, sans-serif;
+    font-size: 34px;
+    font-style: bold;
+    color: blueviolet;
+    
+
+
+}
+h1{
+
+    color: #FFFFFF;
+    font-family: Advent Pro, sans-serif;
+    font-size: 45px;
+    animation-name: fade;
+    animation-duration: 3s;
+    animation-name: slideLeft;
+}
+@keyframes slideLeft{
+    from{transform: translateX(5px)}50%{opacity: 0;}
+}
+
+
+
+button{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+img{
+    width: 120px;
+    transform: translateY(21px);
+}

@@ -1,0 +1,21 @@
+body{
+     background-image: linear-gradient(rgb(48, 131, 255), rgb(129, 177, 255));
+}
+p{
+    border-width: 9px;
+    border-style:double;
+    padding: 50px;
+    padding-bottom: 1500px;
+    background-color: white;
+    border-color:black;
+    border-radius: 30px;
+    font-family: Afacad Flux, sans-serif;
+    font-size: 28px;
+    font-style: bold;
+    color: rgb(0, 10, 99);
+}
+h1{
+    color: #FFFFFF;
+    font-family: Advent Pro, sans-serif;
+    font-size: 45px;
+}

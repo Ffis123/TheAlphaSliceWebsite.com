@@ -1,0 +1,52 @@
+body{
+    background-image: url("LD.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 140% 100%;
+}
+p{
+    border-style: solid;
+    padding: 50px;
+    padding-bottom: 280px;
+    background-color: rgb(38, 0, 85);
+    border-color: blueviolet;
+    border-radius: 20px;
+    font-family: Afacad Flux, sans-serif;
+    font-size: 75px;
+    font-style: bold;
+    color: blueviolet;
+    text-align: center;
+
+}
+h1{
+    text-align:inherit;
+    color: #FFFFFF;
+    font-family: Advent Pro, sans-serif;
+    font-size: 90px;
+}
+button{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+img{
+    border-radius: 30px;
+    width: 700px;
+}
+a{
+    color: rgb(218, 179, 250);
+}
+a:hover{
+    color: rgb(184, 108, 255);
+    font-size: 95px;
+}
+img:hover{
+    width: 705px;
+}
+img:active{
+    width:730px;
+}

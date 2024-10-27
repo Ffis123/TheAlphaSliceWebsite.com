@@ -1,0 +1,12 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(128, 128, 128, 0.623);
+    text-align: center;
+    padding-top: 30%;
+    animation-name: backandforth;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+@keyframes backandforth{
+    from{transform: translatey(101%)}
+}
